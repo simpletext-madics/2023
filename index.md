@@ -3,7 +3,7 @@
 ---
 
 [Home](./) | [Call for papers](./CFP) | [Important dates](./dates) | [Tasks](./tasks)  | [Tools](./tools) | 
-[Program](./program) | [Publications](./publications) | [Organisers](./organisers) | [Contact](simpletex-madics/2022/clef/en/contact) |
+[Program](./program) | [Publications](./publications) | [Organisers](./organisers) | [Contact](simpletex-madics/2022/clef/en/contact) | [CLEF
 <!--- <img src="https://github.com/simpletext-madics/2021/blob/main/clef/FR.png?raw=true" width="30">https://simpletext-project.com/2022/clef/') --->
 
 ---
@@ -46,18 +46,6 @@ Rather than an afterthought, our track is motivated by a concrete use-case of so
 
 ***
 
-### SimpleText’22 overview and lessons learned  
-
-In the CLEF 2022 edition of SimpleText, a total of 62 teams registered for the SimpleText track [8]. A total of 40 users downloaded data from the server. A total of 9 distinct teams submitted 24 runs, of which 10 runs were updated. Two teams described in their papers their post-submission experience. 6 runs were submitted for Task 1: What is in (or out)? 4 runs were submitted for Task 2: What is unclear? 14 runs were submitted for Task 3: Rewrite this! We have also seen 2 post-submission runs for Task 2 and 1 post-submission runs for Task 3.  
-
-For Task 1, we saw a clear difference in complexity between journalistic and scientific articles.  To bring such aspects into IR, the 2022 topical relevance qrels provide a unique resource that can be reused and enriched with additional judgments.  We can provide sentence-level judgments for known relevant passages, enabling a sentence extraction version of the 2022 task.  Moreover, we can add additional labels on text complexity and credibility of the source publication, based on large-scale automatic and small-scale manual judgments further enriching the 2022 qrels. As the recall base is small, we have to expand the test collection by increasing pooling depth and adding new subtopics and queries for the same set of popular science articles.  
-
-In the 2022 edition, the Task 2 was limited to difficult term spotting however 10 runs for Task 3 provided context for difficult terms besides language simplification. This proves a demand in corpus with explanations of difficult terms integrated in a text. Thus, we will update Task 2 to provide this context besides searching for difficult terms. Evaluation stage allowed to increase the annotated data for term difficulty spotting. We will use these data as a first stage of the annotation for the corpus in 2023 as well as for a partial automatisation of evaluation.  
-
-We observed that many large pre-trained models tend to insert unnecessary and even false information in the simplification due to their generative nature. Dealing with these kinds of information distortion is a problem of current interest in AI. Thus, we will continue to evaluate results with regard to the errors produced during simplification which differs SimpleText from the state-of-the-art text simplification evaluation metrics. For training data for Task 3, we also observe a significant difference in length and complexity between original and simplified sentences. We will continue to collect data and we will add automatic evaluation as a supplement to information distortion evaluation.  
-
-***
-
 ### Tasks, evaluation, metrics  
 
 We will keep the 3 shared tasks (and an open task) for 2023 edition. We will reuse data constructed in previous editions with additional topics and additional automatic and manual labels. We will also emphasize automatic evaluation and training using the 2022 data. Although we describe here the intended framework, the details will be discussed during the break-out session at CLEF-2022.  
@@ -95,20 +83,6 @@ A **PhD student** (to be hired on ANR) will work on Tasks 1 and 2 under the supe
 **Other colleagues participate in the Task organization:** Irina Ovchinnikova (ManPower Language Solution, Israel), Diana Nurbakova (INSA Lyon, France), Sílvia Araújo (University of Minho, Portugal), Radia Hannachi (University of South Brittany, France). We will also hire interns in translation and technical writing for data collection and evaluation.  
 
 ***
-
-### Details of the expected target audience and how to reach them  
-
-The  target audience are technical students and researchers in IR and NLP. We will also encourage manual runs (students in translation, foreign language teaching - especially Tasks 2 & 3) to enhance data for the next editions.  
-
-SimpleText is labelized by the French research network on Big Data - Data Science [MADICS](https://www.madics.fr/).  We will spread the information via communication service in UBO, SimpleText Google group, mailing lists (SIGIR, info-ic, madics, clef, ntcir, bulle-i3, ln, nlp-seminar, romip, TRANSLATIO@jiscmail.ac.uk, organizers’ university mailing lists), social networks, organizers’ personal pages, the SimpleText project network, network of  the French Groupe of Research in Writing Communication ([GRCE](https://grce.labri.fr/)). We will also advertise the track at CLEF 2022 and ECIR 2023 and other conferences, workshops and local events. We are in contact with researchers who have been working on text simplification in Austria, Japan, Mexico and Russia. We will also propose SimpleText tasks as projects within the class on AI in Engineering School in Brest (France), as projects for master students in translation in UBO (France) and as a part of the intensive course on AI open for 9 universities of the [SEA-EU Alliance](https://sea-eu.org/).  
-
-***
-
-### Expected length of the lab session at the conference: half-day  
-
-  -  45 min invited talk + 15 min for questions
-  -  1h round table
-  -  2h30 for presentations (~10 presentations of 15 min)  
 
 **Acknowledgement**  
 
