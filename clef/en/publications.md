@@ -7,3 +7,5 @@
 
 
 <h2 align="center">SimpleText: Automatic Simplification of Scientific Texts</h2>
+
+COMING SOON
