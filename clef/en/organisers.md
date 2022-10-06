@@ -13,7 +13,7 @@
 
 [Jaap Kamps](https://e.humanities.uva.nl/), Faculty of Humanities, University of Amsterdam 
 
-[Olivier Augereau], ENIB, Lab-STICC CNRS UMR 6285, France
+Olivier Augereau, ENIB, Lab-STICC CNRS UMR 6285, France
 
 [Patrice Bellot](https://ins2i.cnrs.fr/fr/personne/patrice-bellot), Laboratoire d’Informatique et Systèmes (LIS – CNRS/Aix-Marseille Université/Université de Toulon), Université de Aix-Marseille
 
