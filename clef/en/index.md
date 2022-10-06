@@ -66,7 +66,9 @@ The goal of this task is to provide a simplified version of text passages. Parti
 
 **Acknowledgement**  
 
-SimpleText is supported by the French research network on Big Data - Data Science [MADICS](https://www.madics.fr/). The project was selected for funding by the French National Research Agency (ANR) in October 2022.  
+SimpleText is supported by the French research network on Big Data - Data Science [MADICS](https://www.madics.fr/). The project was selected for funding by the French National Research Agency (ANR) in October 2022.
+
+***
 
 **References**  
 
