@@ -9,13 +9,13 @@
 
 [Eric SanJuan](https://termwatch.es/), Laboratoire d’Informatique d’Avignon,Institut de technologie de Avignon (Avignon, France)
 
-[Stéphane Huet](https://cv.archives-ouvertes.fr/shuet), Université d'Avignon (France)
+[Stéphane Huet](https://cv.archives-ouvertes.fr/shuet), Laboratoire d’Informatique d’Avignon,Institut de technologie de Avignon (Avignon, France)
 
-[Jaap Kamps](https://e.humanities.uva.nl/), Faculty of Humanities, University of Amsterdam 
+[Jaap Kamps](https://e.humanities.uva.nl/), Faculty of Humanities, University of Amsterdam (The Netherlands)
 
-Olivier Augereau, ENIB, Lab-STICC CNRS UMR 6285, France
+[Olivier Augereau](https://olivier-augereau.com/) ENIB, Lab-STICC CNRS UMR 6285, (Brest, France)
 
-[Patrice Bellot](https://ins2i.cnrs.fr/fr/personne/patrice-bellot), Laboratoire d’Informatique et Systèmes (LIS – CNRS/Aix-Marseille Université/Université de Toulon), Université de Aix-Marseille
+[Patrice Bellot](https://ins2i.cnrs.fr/fr/personne/patrice-bellot), Laboratoire d’Informatique et Systèmes (LIS – CNRS/Aix-Marseille Université/Université de Toulon), Université de Aix-Marseille (France)
 
 A **PhD student** (to be hired on ANR) will work on Tasks 1 and 2 under the supervision of L.  Ermakova and P. Bellot.  
 
