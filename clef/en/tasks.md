@@ -1,7 +1,7 @@
 ---
 
 [Home](./) | [Call for papers](./CFP) | [Important dates](./dates) | [Tasks](./tasks)  | [Tools](./tools) | 
-[Program](./program) | [Publications](./publications) | [Organisers](./organisers) | [Contact](simpletex-madics/2022/en/index/index) | [CLEF-2022](../2022/clef/en/index)
+[Program](./program) | [Publications](./publications) | [Organisers](./organisers) | [Contact](./contact) | [CLEF-2022](../2022/clef/en/index)
 <!--- <img src="https://github.com/simpletext-madics/2021/blob/main/clef/FR.png?raw=true" width="30">https://simpletext-project.com/2022/clef/') --->
 
 ---
