@@ -30,7 +30,7 @@
 
 ## Other organizers and partners
 
-* [Patrice Bellot](https://ins2i.cnrs.fr/fr/personne/patrice-bellot), Laboratoire d’Informatique et Systèmes (LIS – CNRS/Aix-Marseille Université/Université de Toulon), Université de Aix-Marseille (Marseille, France)
+* [Patrice Bellot](https://ins2i.cnrs.fr/fr/personne/patrice-bellot), LIS – CNRS/Aix-Marseille Université/Université de Toulon, Université de Aix-Marseille (Marseille, France)
 * Irina Ovchinnikova (ManPower Language Solution, Israel)
 * Diana Nurbakova (INSA Lyon, France)
 * Sílvia Araújo (University of Minho, Portugal)
