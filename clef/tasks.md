@@ -7,7 +7,7 @@
 
 ### Tasks, evaluation, metrics  
 
-We will keep the 3 shared tasks (and an open task) for 2023 edition. We will reuse data constructed in previous editions with additional topics and additional automatic and manual labels. We will also emphasize automatic evaluation and training using the 2022 data. Although we describe here the intended framework, the details will be discussed during the break-out session at CLEF-2022.  
+We will keep the 3 shared tasks (and an open task) for 2023 edition.   
 
 - **Task 1: Content Selection: Selecting passages to include in a simplified summary**  
 
