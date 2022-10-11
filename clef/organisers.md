@@ -8,7 +8,7 @@
 ## Chairs
 
 ### General chair
-[Liana Ermakova](https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Ermakova--Liana) (Chair), HCTI, Université de Bretagne Occidentale (Brest, France)
+[Liana Ermakova](https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Ermakova--Liana), HCTI, Université de Bretagne Occidentale (Brest, France)
 
 ### Task 1 (Content Selection: Selecting passages to include in a simplified summary) chairs
 [Eric SanJuan](https://termwatch.es/), Laboratoire d’Informatique d’Avignon, Institut de technologie de Avignon (Avignon, France)
@@ -19,12 +19,12 @@
 
 ### Task 2 (Complexity Spotting: Identifying and explaining difficult concepts for general audience) chairs
 
-[Olivier Augereau](https://olivier-augereau.com/) ENIB, Lab-STICC CNRS UMR 6285 (Brest, France)
+[Olivier Augereau](https://olivier-augereau.com/), ENIB, Lab-STICC CNRS UMR 6285 (Brest, France)
 
-[Hosein Azarbonyad](https://scholar.google.com/citations?user=JHL38zQAAAAJ&hl=en) Elsevier (Amsterdam, The Netherlands)
+[Hosein Azarbonyad](https://scholar.google.com/citations?user=JHL38zQAAAAJ&hl=en), Elsevier (Amsterdam, The Netherlands)
 
 ### Task 3 (Text Simplification: Scientific text simplification) chairs
-[Liana Ermakova](https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Ermakova--Liana) (Chair), HCTI, Université de Bretagne Occidentale (Brest, France)
+[Liana Ermakova](https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Ermakova--Liana), HCTI, Université de Bretagne Occidentale (Brest, France)
 
 [Jaap Kamps](https://e.humanities.uva.nl/), Faculty of Humanities, University of Amsterdam (Amsterdam, The Netherlands)
 
