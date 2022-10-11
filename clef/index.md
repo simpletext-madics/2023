@@ -14,14 +14,17 @@
 
 ### Track Description
 
+Users tend to avoid reliable sources such as scientific literature due to their complex vernacular and lacking background knowledge, resorting to shallow and derived sources on the web and in social media--often published for commercial or political incentives, rather than the informational value.   
+Text simplification offers the potential to remove some of these access barriers, 
+yet despite great progress in recent years, many technical and evaluation problems in this particular setting remain unsolved. 
+SimpleText tackles technical and evaluation challenges of scientific information access for laypersons, by providing appropriate reusable data and benchmarks for text simplification, promoting novel research to reduce barriers in understanding complex texts. The goal is to create a simplified summary of multiple scientific documents based on a popular science query which provides our user with an instant simplified overview on the specific topic she is interested in.  We propose three tasks:
+* Task 1: content selection (retrieving relevant abstracts);
+* Task 2: complexity spotting (detecting and explaining complex concepts);
+* Task 3: text simplification (rewriting scientific text).
+
 #### _Topics and Goals_
 
 SimpleText tackles technical and evaluation challenges of scientific information access for laypersons, by providing appropriate reusable data and benchmarks for text simplification, promoting novel research to reduce barriers in understanding complex texts. The goal is to create a simplified summary of multiple scientific documents based on a popular science query which provides our user with an instant simplified overview on the specific topic she is interested in.  
-
-We propose three tasks:  
-**(1)** content selection (retrieving relevant abstracts),  
-**(2)** complexity spotting (detecting and explaining complex concepts), and  
-**(3)** text simplification (rewriting scientific text).  
 
 To face these challenges, SimpleText aims to answer the following research questions: 
 
