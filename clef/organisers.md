@@ -36,3 +36,5 @@
 * Sílvia Araújo (University of Minho, Portugal)
 * Radia Hannachi (University of South Brittany, France)
 * Pierre De Loor (ENIB, Lab-STICC CNRS UMR 6285, France)
+* Melinda Chelli, Student at Université de Bretagne Occidentale (Brest, France)
+* Emma Guiguin, Student at Université de Bretagne Occidentale (Brest, France)
