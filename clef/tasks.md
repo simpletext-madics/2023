@@ -4,19 +4,57 @@
 [Program](./program) | [Publications](./publications) | [Organisers](./organisers) | [Contact](./contact) | [CLEF-2022](https://simpletext-project.com/2022/clef/en/)
 
 ---
+## How to participate
+In order to participate, you should sign up at the [CLEF](https://clef2023.clef-initiative.eu/index.php) website: [http://clef2023-labs-registration.dei.unipd.it/](http://clef2023-labs-registration.dei.unipd.it/). 
 
-### Tasks, evaluation, metrics  
+All team members should join the SimpleText mailing list:
+[https://groups.google.com/g/simpletext](https://groups.google.com/g/simpletext). 
 
-We will keep the 3 shared tasks (and an open task) for 2023 edition.   
+The data will be made available to all registered participants.
 
-- **Task 1: Content Selection: Selecting passages to include in a simplified summary**  
+## Task 1: Content Selection: Selecting passages to include in a simplified summary
 
-Given a popular science article from a major international newspaper, this task aims at retrieving all passages that would be relevant for this article, from a large corpus of scientific abstracts and bibliographic metadata. Relevant passages should relate to any of the topics in the source article. In 2023, *we will continue evaluating on topical relevance, but also on text complexity (using readability measures), and source authoritativeness (using academic impact measures).*
+Given a popular science article from a major international newspaper, this task aims at retrieving all passages that would be relevant for this article, from a large corpus of scientific abstracts and bibliographic metadata. Relevant passages should relate to any of the topics in the source article. Relevant abstracts should relate to any of the topics in the source article. These passages can be complex and require further simplification to be carried out in tasks 2 and 3. Task 1 focuses on content retrieval. 
 
-- **Task 2: Complexity Spotting: Identifying and explaining difficult concepts for laypersons**  
+### Corpus: DBLP + abstracts
+We use the Citation Network Dataset: 
+- DBLP+Citation
+- ACM Citation network, the 12th version released in 2020: [https://www.aminer.org/citation](https://www.aminer.org/citation)
+An ElasticSearch index is provided to participants with access through an API. A JSON dump of the index is also available for participants.
 
-The goal of this task is to decide which concepts in scientific abstracts (up to 5) require explanation and contextualization to help a layperson to understand the text. For example, in the context of a query, some key concepts need to be contextualized (with a definition, example and/or use-case). In 2023, we ask participants to identify such concepts and _to provide useful and understandable explanations for them_. We will evaluate concepts in terms of their complexity and the detected concept spans. *We will evaluate the provided explanations in terms of their usefulness with regard to a query as well as their complexity for a lay user.*
+### Queries
+Topics are a selection of press articles from the Science section of The Guardian and Tech Xplore, enriched with queries manually extracted from the content of the article. It has been checked that at least 5 relevant abstracts can be found for each query.
 
-- **Task 3: Text Simplification: Scientific text simplification**  
+### Evaluation
+We will evaluate
+- Topic **relevance**: 
+  - Not relevant (0)
+  - Relevant (1)
+  - Highly relevant (2)
+- Text **complexity**:
+  - Easy (0)
+  - Difficult (1)
+  - Very difficult (2)
+- Source **credibility**: 
+  - Low (0)
+  - Medium (1)
+  - High credibility (2)
+
+**Evaluation metrics**:
+- traditional IR metrics based on the fusion of the various criteria: NDCG, MAP, ...
+- per aspect evaluation
+
+
+## Task 2: Complexity Spotting: Identifying and explaining difficult concepts for general audience
+
+The goal of this task is:
+1. to decide which terms (up to 5) require explanation and contextualization to help a reader to understand a complex scientific text – for example, with regard to a query, terms that need to be contextualized (with a definition, example and/or use-case)
+2. to provide short (one/two sentence) explanations/definitions for the detected difficult terms. For the abbreviations, the definition would be the extended abbreviation.
+
+For each passage, participants should provide a ranked list of difficult terms with corresponding scores on the scale 1-3 (3 to be the most difficult terms, while the meaning of terms scored 1 can be derived or guessed), scores on the scale 1-5 (5 to be the most difficult terms), and definitions.  Passages (sentences) are considered to be independent, i.e. difficult term repetition is allowed.
+
+Term pooling and automatic metrics (accuracy of term binary classification, NDCG for term ranking, kappa statistics, similarity of the provided definitions to ground-truth definitions…) will be used to evaluate these results.
+
+## Task 3: Text Simplification: Scientific text simplification  
 
 The goal of this task is to provide a simplified version of text passages. Participants will be provided with the popular science articles and queries and matching abstracts of scientific papers. The abstracts can be split into sentences. As in 2022, we will evaluate the complexity of the provided simplifications as well as the errors and information distortion which might occur in the simplification process. In 2023, we will *expand the training and evaluation data and focus on large-scale automatic evaluation measures (SARI, ROUGE, compression, readability)*, supplemented with small-scale detailed human evaluation of other aspects.  
