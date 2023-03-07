@@ -40,3 +40,10 @@ SimpleText is supported by the French research network on Big Data - Data Scienc
 - [https://ceur-ws.org/Vol-3180/paper-237.pdf](https://ceur-ws.org/Vol-3180/paper-237.pdf)
 
 ---
+
+
+<div align="center">
+ <a href="https://anr.fr/Projet-ANR-22-CE23-0019"><img src="../img/ANR-logo-2021-complet.jpg" height="120"></a>
+ <a href="https://www.madics.fr/actions/simpletext/"><img src="../img/Logo-CNRS-MaDICS.jpg" height="120"></a>
+ <a href="https://clef2023.clef-initiative.eu/index.php"><img src="../img/logo-CLEF-2023.png" height="120"></a>
+</div>
