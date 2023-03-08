@@ -26,11 +26,16 @@ An ElasticSearch index is provided to participants with access through an API. A
 Topics are a selection of press articles from the Science section of The Guardian and Tech Xplore, enriched with queries manually extracted from the content of the article. It has been checked that at least 5 relevant abstracts can be found for each query.
 
 ### Evaluation
-We will evaluate
+**Topical relevance**
+Retrieval effectiveness will be evaluated on:
 - Topic **relevance**: 
   - Not relevant (0)
   - Relevant (1)
   - Highly relevant (2)
+We will use traditional IR measures to evaluate the effectiveness (NDCG@10, MAP, ...).
+
+**Additional measures**
+We plan to assess additional (non-topical relevance) aspects: 
 - Text **complexity**:
   - Easy (0)
   - Difficult (1)
@@ -39,10 +44,7 @@ We will evaluate
   - Low (0)
   - Medium (1)
   - High credibility (2)
-
-**Evaluation metrics**:
-- traditional IR metrics based on the fusion of the various criteria: NDCG, MAP, ...
-- per aspect evaluation
+We plan to provide additional evaluation scores based on these aspects.
 
 
 ## Task 2: Complexity Spotting: Identifying and explaining difficult concepts for general audience
