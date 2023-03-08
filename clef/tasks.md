@@ -20,6 +20,7 @@ Given a popular science article from a major international newspaper, this task 
 We use the Citation Network Dataset: 
 - DBLP+Citation
 - ACM Citation network, the 12th version released in 2020: [https://www.aminer.org/citation](https://www.aminer.org/citation)
+
 An ElasticSearch index is provided to participants with access through an API. A JSON dump of the index is also available for participants.
 
 ### Queries
@@ -28,14 +29,17 @@ Topics are a selection of press articles from the Science section of The Guardia
 ### Evaluation
 **Topical relevance**: 
 Retrieval effectiveness will be evaluated on:
+
 - Topic **relevance**: 
   - Not relevant (0)
   - Relevant (1)
   - Highly relevant (2)
+
 We will use traditional IR measures to evaluate the effectiveness (NDCG@10, MAP, ...).
 
 **Additional measures**: 
 We plan to assess additional (non-topical relevance) aspects: 
+
 - Text **complexity**:
   - Easy (0)
   - Difficult (1)
@@ -44,6 +48,7 @@ We plan to assess additional (non-topical relevance) aspects:
   - Low (0)
   - Medium (1)
   - High credibility (2)
+
 We plan to provide additional evaluation scores based on these aspects.
 
 
