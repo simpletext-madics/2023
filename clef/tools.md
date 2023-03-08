@@ -7,9 +7,8 @@
 
 ## Relevant literature & tools
 ### Task 1: Automatic summarization tools
-* **JURASSIC**: AI21 Studio provides access to Jurassic-1 suite of language models. Jurassic-1 is large AI model able to transform an existing text. One common transformation is summarization. Summarization task can be fine-tuned via the AI21 API or in the GUI [https://www.ai21.com/blog/ai21-studio-use-cases](https://www.ai21.com/blog/ai21-studio-use-cases)
-* **GPT-2** is a large-scale unsupervised language model which performs machine translation, question answering, and summarization without task-specific training [https://github.com/openai/gpt-2](https://github.com/openai/gpt-2)
-* **Multilingual T5 (mT5)**  is a large multilingual pretrained text-to-text transformer model developped by Google covering 101 languages. mT5 can be fine-tuned for any text-to-text generation. It is possible to fine-tune the mT5 model by using the [SimpleT5 library](https://github.com/Shivanandroy/simpleT5/). [https://github.com/google-research/multilingual-t5](https://github.com/google-research/multilingual-t5)
+* Popular rankers are Anserini/Pyserini or trained neural rankers on HuggingFace.
+* The track makes an elastic search API available to registered participants.
 
 ### Task 2: Terminology management tools
 * **IDF**: Robertson, S. (2004), "Understanding inverse document frequency: on theoretical arguments for IDF", Journal of Documentation, Vol. 60 No. 5, pp. 503-520. [https://doi.org/10.1108/00220410410560582](https://doi.org/10.1108/00220410410560582)
