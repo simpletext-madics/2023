@@ -58,7 +58,7 @@ The goal of this task is:
 1. to decide which terms (up to 5) require explanation and contextualization to help a reader to understand a complex scientific text – for example, with regard to a query, terms that need to be contextualized (with a definition, example and/or use-case)
 2. to provide short (one/two sentence) explanations/definitions for the detected difficult terms. For the abbreviations, the definition would be the extended abbreviation.
 
-For each passage, participants should provide a ranked list of difficult terms with corresponding scores on the scale 1-3 (3 to be the most difficult terms, while the meaning of terms scored 1 can be derived or guessed), scores on the scale 1-5 (5 to be the most difficult terms), and definitions.  Passages (sentences) are considered to be independent, i.e. difficult term repetition is allowed.
+For each passage, participants should provide a ranked list of difficult terms with corresponding scores on the scale 1-3 (3 to be the most difficult terms, while the meaning of terms scored 1 can be derived or guessed) and definitions.  Passages (sentences) are considered to be independent, i.e. difficult term repetition is allowed.
 
 Term pooling and automatic metrics (accuracy of term binary classification, NDCG for term ranking, kappa statistics, similarity of the provided definitions to ground-truth definitions…) will be used to evaluate these results.
 
