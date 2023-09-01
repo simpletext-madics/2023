@@ -49,7 +49,7 @@ Overview of the CLEF 2023 SimpleText Task 3: Simplification of Scientific Texts"
 
 ### SimpleText Session 3 (ROOM 4)
 
-* **16:10 - 16:40** Online participant presentations 7+3 min).
+* **16:10 - 16:40** Online participant presentations (7+3 min).
   
 * **16:40 - 17:40** Round table and SimpleText 2023 discussion:
     * We want to hear from *you*!
