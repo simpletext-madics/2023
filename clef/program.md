@@ -30,15 +30,15 @@ SimpleText Sessions takes place in **ROOM 4** except for the lab overviews.
 > **Bio**: Federica Vezzani is assistant professor at the Department of Linguistic and Literary Studies of the University of Padua. Her main research interests are terminology, specialized translation, technical communication. In particular, she focuses on the management of multilingual terminology, and she developed the FAIR terminology paradigm for the organization of findable, accessible, interoperable, and reusable terminological data. Since 2022 she is an expert member of ISO TC/37 “Language and Terminology”, and participates in different national and international working groups for the development of controlled natural languages for text simplification.
 
 * **17:00 - 17:10** **Éric Sanjuan**, Stéphane Huet, Jaap Kamps, Liana Ermakova
-"Overview of the CLEF 2023 SimpleText Task 1: Passage Selection for a Simplified Summary" 
+_Overview of the CLEF 2023 SimpleText Task 1: Passage Selection for a Simplified Summary_ 
 ([Paper](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-238.pdf), online).
 
 * **17:10 - 17:20** Liana Ermakova, **Hosein Azarbonyad**, Sarah Bertin, Olivier Augereau
-Overview of the CLEF 2023 SimpleText Task 2: Difficult Concept Identification and Explanation"
+_Overview of the CLEF 2023 SimpleText Task 2: Difficult Concept Identification and Explanation_
 ([Paper](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-239.pdf)).
 
 * **17:20 - 17:30** Liana Ermakova, Sarah Bertin, Helen McCombie, **Jaap Kamps**
-Overview of the CLEF 2023 SimpleText Task 3: Simplification of Scientific Texts"
+_Overview of the CLEF 2023 SimpleText Task 3: Simplification of Scientific Texts_
 ([Paper](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-240.pdf)).
 
 ## Tuesday 19th September 
@@ -72,85 +72,85 @@ Overview of the CLEF 2023 SimpleText Task 3: Simplification of Scientific Texts"
 ### Including authors unable to present in-person or online:
 
 * Éric Sanjuan, Stéphane Huet, Jaap Kamps, Liana Ermakova
-"Overview of the CLEF 2023 SimpleText Task 1: Passage Selection for a Simplified Summary" 
+_Overview of the CLEF 2023 SimpleText Task 1: Passage Selection for a Simplified Summary_ 
 ([Paper](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-238.pdf)).
 
 * Liana Ermakova, Hosein Azarbonyad, Sarah Bertin, Olivier Augereau
-Overview of the CLEF 2023 SimpleText Task 2: Difficult Concept Identification and Explanation"
+_Overview of the CLEF 2023 SimpleText Task 2: Difficult Concept Identification and Explanation_
 ([Paper](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-239.pdf)).
 
 * Liana Ermakova, Sarah Bertin, Helen McCombie, Jaap Kamps
-Overview of the CLEF 2023 SimpleText Task 3: Simplification of Scientific Texts"
+_Overview of the CLEF 2023 SimpleText Task 3: Simplification of Scientific Texts_
 ([Paper](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-240.pdf)).
 
 * Pascal Severin Andermatt, Tobias Fankhauser
-UZH_Pandas at SimpleText@CLEF-2023: Alpaca LoRA 7B and LENS Model Selection for Scientific Literature Simplification
+_UZH_Pandas at SimpleText@CLEF-2023: Alpaca LoRA 7B and LENS Model Selection for Scientific Literature Simplification_
 ([Paper](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-241.pdf)).
 
 * Aftab Anjum, Nikolaus Lieberum
-Automatic Simplification of Scientific Texts using Pre-trained Language Models: A Comparative Study at CLEF Symposium 2023
+_Automatic Simplification of Scientific Texts using Pre-trained Language Models: A Comparative Study at CLEF Symposium 2023_
 ([Paper](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-242.pdf)).
 
 * Sílvia Araújo, Micaela Aguiar
-Comparing ChatGPT’s and Human Evaluation of Scientific Texts’ Translations from English to Portuguese Using Popular Automated Translators
+_Comparing ChatGPT’s and Human Evaluation of Scientific Texts’ Translations from English to Portuguese Using Popular Automated Translators_
 ([Paper](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-243.pdf)).
 
 * Sarah Bertin
-Scientific Simplification, the Limits of ChatGPT
+_Scientific Simplification, the Limits of ChatGPT_
 ([Paper](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-244.pdf)).
 
 * Artemis Capari, Hosein Azarbonyad, Georgios Tsatsaronis, Zubair Afzal
-Elsevier at SimpleText: Passage Retrieval by Fine-tuning GPL on Scientific Documents
+_Elsevier at SimpleText: Passage Retrieval by Fine-tuning GPL on Scientific Documents_
 ([Paper](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-245.pdf)).
 
 * Petra Dadić, Olga Popova
-CLEF 2023 SimpletText Tasks 2 and 3: Enhancing Language Comprehension: Addressing Difficult Concepts and Simplifying Scientific Texts Using GPT, BLOOM, KeyBert, Simple T5 and More
+_CLEF 2023 SimpletText Tasks 2 and 3: Enhancing Language Comprehension: Addressing Difficult Concepts and Simplifying Scientific Texts Using GPT, BLOOM, KeyBert, Simple T5 and More_
 ([Paper](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-246.pdf)).
 
 * Dennis R. Davari, Antonela Prnjak, Kristina Schmitt
-CLEF2023 SimpleText Task 2, 3: Identification and Simplification of Difficult Terms
+_CLEF2023 SimpleText Task 2, 3: Identification and Simplification of Difficult Terms_
 ([Paper](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-247.pdf)).
 
 * Quentin Dubreuil
-UBO Team @ CLEF SimpleText 2023 Track for Task 2 and 3 - Using IA models to simplify Scientific Texts
+_UBO Team @ CLEF SimpleText 2023 Track for Task 2 and 3 - Using IA models to simplify Scientific Texts_
 ([Paper](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-248.pdf)).
 
 * Óscar E. Mendoza, Gabriella Pasi
-Domain Context-centered Retrieval for the Content Selection task in the Simplification of Scientific Literature
+_Domain Context-centered Retrieval for the Content Selection task in the Simplification of Scientific Literature_
 ([Paper](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-249.pdf)).
 
 * Björn Engelmann, Fabian Haak, Christin Katharina Kreutz, Narjes Nikzad Khasmakhi, Philipp Schaer
-Text Simplification of Scientific Texts for Non-Expert Readers
+_Text Simplification of Scientific Texts for Non-Expert Readers_
 ([Paper](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-250.pdf)).
 
 * Running Hou, Xinyi Qin
-An Evaluation of MUSS and T5 Models in Scientific Sentence Simplification: A Comparative Study
+_An Evaluation of MUSS and T5 Models in Scientific Sentence Simplification: A Comparative Study_
 ([Paper](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-251.pdf)).
 
 * Roos Hutter, Jop Sutmuller, Mary Adib, David Rau, Jaap Kamps
-University of Amsterdam at the CLEF 2023 SimpleText Track
+_University of Amsterdam at the CLEF 2023 SimpleText Track_
 ([Paper](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-252.pdf)).
 
 * Behrooz Mansouri, Shea Durgin, Sj Franklin, Sean Fletcher, Ricardo Campos
-AIIR and LIAAD Labs Systems for CLEF 2023 SimpleText
+_AIIR and LIAAD Labs Systems for CLEF 2023 SimpleText_
 ([Paper](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-253.pdf)).
 
 * Felix Ohnesorge, Mari Ángeles Gutiérrez, Julia Plichta
-CLEF 2023: Scientific Text Simplification and General Audience
+_CLEF 2023: Scientific Text Simplification and General Audience_
 ([Paper](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-254.pdf)).
 
 * Jenny Ortiz-Zambrano, César Espin-Riofrio, Arturo Montejo-Ráez
-SINAI Participation in SimpleText Task 2 at CLEF 2023: GPT-3 in Lexical Complexity Prediction for General Audience
+_SINAI Participation in SimpleText Task 2 at CLEF 2023: GPT-3 in Lexical Complexity Prediction for General Audience_
 ([Paper](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-255.pdf)).
 
 * Victor Manuel Palma Preciado, Carolina Palma Preciado, Grigori Sidorov
-NLPalma @ CLEF 2023 SimpleText: BLOOMZ and BERT for Complexity and Simplification Task
+_NLPalma @ CLEF 2023 SimpleText: BLOOMZ and BERT for Complexity and Simplification Task_
 ([Paper](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-256.pdf)).
 
 * Darko Vujica, Iva Čatipović, Julia Komorowska
-CLEF2023 SimpleText
+_CLEF2023 SimpleText_
 ([Paper](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-257.pdf)).
 
 * Shih-Hung Wu, Hong-Yi Huang
-A Prompt Engineering Approach to Scientific Text Simplification: CYUT at SimpleText2023 Task
+_A Prompt Engineering Approach to Scientific Text Simplification: CYUT at SimpleText2023 Task_
 ([Paper](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-258.pdf)).
