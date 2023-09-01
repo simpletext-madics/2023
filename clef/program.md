@@ -69,11 +69,11 @@ Overview of the CLEF 2023 SimpleText Task 3: Simplification of Scientific Texts"
 
 ## All CLEF 2023 SimpleText track papers 
 
-### Inclusing authors unable to present in-person or online:
+### Including authors unable to present in-person or online:
 
 * Éric Sanjuan, Stéphane Huet, Jaap Kamps, Liana Ermakova
 "Overview of the CLEF 2023 SimpleText Task 1: Passage Selection for a Simplified Summary" 
-([Paper](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-238.pdf), online).
+([Paper](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-238.pdf)).
 
 * Liana Ermakova, Hosein Azarbonyad, Sarah Bertin, Olivier Augereau
 Overview of the CLEF 2023 SimpleText Task 2: Difficult Concept Identification and Explanation"
