@@ -47,7 +47,7 @@ Overview of the CLEF 2023 SimpleText Task 3: Simplification of Scientific Texts"
 
 * **09:30 - 11:00** Participant presentations (15+5 minutes).
 
-### SimpleText Session 3 (ROOM F)
+### SimpleText Session 3 (ROOM 4)
 
 * **16:10 - 16:40** Online participant presentations 7+3 min).
   
@@ -55,11 +55,17 @@ Overview of the CLEF 2023 SimpleText Task 3: Simplification of Scientific Texts"
     * We want to hear from *you*!
     * What was great about 2023, and what could we improve for you?
     * Any ideas or volunteers are welcome!
+    * SimpleText roadmap:
+        * Complete the current setup in 2024, new data/tasks/setup in 2025 (e.g. moving to [ArXiv](https://arxiv.org/)?
+        * Focus on relevance and text complexity, credibility, topic profiles in Task 1.
+        * Focus on explaining and contextualizing complex concepts in Task 2.
+        * Focus on sentence level and paragraph level text simplification in Task 3.
+        * Add a new filtering/routing Task 4 tracking the state-of-the-art in AI topics in 2024.
       
 ## Thursday 21th September
 
 ### Closing and Introduction of CLEF 2024 (Room 1)
-* **16:30 - 17:00** Closing and plans for 2024 (including 4 slides on CLEF 2024 SimpleText)
+* **16:30 - 17:00** Closing and plans for 2024 (including 2-5 slides on the CLEF 2024 SimpleText track)
 
 ## All CLEF 2023 SimpleText track papers 
 
