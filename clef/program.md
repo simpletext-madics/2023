@@ -29,8 +29,6 @@ SimpleText Sessions takes place in **ROOM 4** except for the lab overviews.
 
 > Bio: Federica Vezzani is assistant professor at the Department of Linguistic and Literary Studies of the University of Padua. Her main research interests are terminology, specialized translation, technical communication. In particular, she focuses on the management of multilingual terminology, and she developed the FAIR terminology paradigm for the organization of findable, accessible, interoperable, and reusable terminological data. Since 2022 she is an expert member of ISO TC/37 “Language and Terminology”, and participates in different national and international working groups for the development of controlled natural languages for text simplification.
 
-* **17:00 - 17:10** Huang Jianfei, Mao Jin "Assembly Models for SimpleText Task 2: Results from Wuhan University Research Group" ([Paper](http://ceur-ws.org/Vol-3180/paper-239.pdf), online).
-
 * **17:00 - 17:10** Éric Sanjuan, Stéphane Huet, Jaap Kamps, Liana Ermakova
 "Overview of the CLEF 2023 SimpleText Task 1: Passage Selection for a Simplified Summary" 
 ([Paper](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-238.pdf), online).
@@ -43,31 +41,22 @@ Overview of the CLEF 2023 SimpleText Task 2: Difficult Concept Identification an
 Overview of the CLEF 2023 SimpleText Task 3: Simplification of Scientific Texts"
 ([Paper](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-240.pdf)).
 
-### Coffee Break
-* **17:00 - 17:20** *Break*
+## Tuesday 19th September 
 
-### SimpleText Session 2 (ROOM F)
+### SimpleText Session 2 (ROOM 4)
 
-* **17:20 - 17:40** José Monteiro, Micaela Aguiar, Sílvia Araújo "Using a Pre-trained SimpleT5 Model for Text Simplification in a Limited Corpus" ([Paper](http://ceur-ws.org/Vol-3180/paper-241.pdf), online).
-* **17:40 - 18:00** Antonio Menta, Ana Garcia-Serrano "Controllable Sentence Simplification Using Transfer Learning" ([Paper](http://ceur-ws.org/Vol-3180/paper-240.pdf), online).
-* **18:00 - 18:30** Femke Mostert, Ashmita Sampatsing, Mink Spronk, David Rau, Jaap Kamps "University of Amsterdam at the CLEF 2022 SimpleText Track" ([Paper](http://ceur-ws.org/Vol-3180/paper-242.pdf), [Slides](./clef22uva-plain.pdf)).
-* **18:30 - 18:50** Adrián Rubio, Paloma Martínez "HULAT-UC3M at SimpleText@CLEF-2022: Scientific text simplification using BART" ([Paper](http://ceur-ws.org/Vol-3180/paper-243.pdf), online).
-
-### Social Event!
-
-* **After 19:00** *Social event sponsored by Elsevier*  
-
-> Informal discussions over drinks and light food -- every attendee of the session is invited!
-
-## Wednesday 7th September 
+* **09:30 - 11:00** Participant presentations (15+5 minutes).
 
 ### SimpleText Session 3 (ROOM F)
 
-* **8:50 - 9:10** Sourav Saha, Dwaipayan Roy, B Yuvaraj Goud, Chethan S Reddy, Tanmay Basu "NLP-IISERB@Simpletext2022: To Explore the Performance of BM25 and Transformer Based Frameworks for Automatic Simplification of Scientific Texts" ([Paper](http://ceur-ws.org/Vol-3180/paper-244.pdf), online).
-* **9:10 - 9:30** Shih-Hung Wu, Hong-Yi Huang "CYUT Team2 SimpleText Shared Task Report in CLEF-2022" ([Paper](http://ceur-ws.org/Vol-3180/paper-246.pdf), online).
-* **9:30 - 10:20** Round table and SimpleText 2023 discussion:
-    * [LNCS Track Overview](https://doi.org/10.1007/978-3-031-13643-6_28) and CEUR overview papers of [Task 1](http://ceur-ws.org/Vol-3180/paper-235.pdf), [Task 2](http://ceur-ws.org/Vol-3180/paper-236.pdf), and [Task 3](http://ceur-ws.org/Vol-3180/paper-237.pdf). 
+* **16:10 - 16:40** Online participant presentations 7+3 min).
+  
+* **16:40 - 17:40** Round table and SimpleText 2023 discussion:
     * We want to hear from *you*!
-    * What was great about 2022, and what could we improve for you?
+    * What was great about 2023, and what could we improve for you?
     * Any ideas or volunteers are welcome!
-* Plans for 2023 ([Slides](SimpleText_CLEF_2023__short_presentation.pdf)).
+      
+## Thursday 21th September
+
+### Closing and Introduction of CLEF 2024 (Room 1)
+* **16:30 - 17:00** Closing and plans for 2024 (including 4 slides on CLEF 2024 SimpleText) 
