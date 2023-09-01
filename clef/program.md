@@ -56,7 +56,7 @@ Overview of the CLEF 2023 SimpleText Task 3: Simplification of Scientific Texts"
     * What was great about 2023, and what could we improve for you?
     * Any ideas or volunteers are welcome!
     * SimpleText roadmap:
-        * Complete the current setup in 2024, new data/tasks/setup in 2025 (e.g. moving to [ArXiv](https://arxiv.org/)?
+        * Complete the current setup in 2024, new data/tasks/setup in 2025 (e.g. moving to [ArXiv](https://arxiv.org/)?)
         * Focus on relevance and text complexity, credibility, topic profiles in Task 1.
         * Focus on explaining and contextualizing complex concepts in Task 2.
         * Focus on sentence level and paragraph level text simplification in Task 3.
