@@ -17,6 +17,10 @@
 
 SimpleText Sessions takes place in **ROOM 4** except for the lab overviews.
 
+### CONFERENCE Session 1 Natural Language Understanding & Text Generation (ROOM 1) 
+
+> **10:10 - 10:30** SimpleText Best of Labs in CLEF-2022: Simplify Text Generation with Prompt Engineering [BEST OF LABS], Shih-Hung Wu and Hong-Yi Huang
+
 ### Lab Overviews (ROOM 1)
 * **11:20 - 12:00** Lab overviews: PAN, BioASQ, eRisk, **SimpleText**, LifeCLEF.
 
