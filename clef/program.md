@@ -49,7 +49,7 @@ _Overview of the CLEF 2023 SimpleText Task 3: Simplification of Scientific Texts
 
 ### SimpleText Session 2 (ROOM 4)
 
-* **09:30 - 11:00** Participant presentations (12.5+5 minutes).
+* **09:30 - 11:00** Participant presentations (13+5 minutes).
 
 * **Artemis Capari**, Hosein Azarbonyad, Georgios Tsatsaronis, Zubair Afzal
 _Elsevier at SimpleText: Passage Retrieval by Fine-tuning GPL on Scientific Documents_
@@ -73,26 +73,26 @@ _A Prompt Engineering Approach to Scientific Text Simplification: CYUT at Simple
 
 ### SimpleText Session 3 (ROOM 4)
 
-* **16:10 - 16:50** Online participant presentations (7+3 min).
+* **16:10 - 17:10** Online participant presentations (10+5 min).
 
 * **Pascal Severin Andermatt**, **Tobias Fankhauser**
 _UZH_Pandas at SimpleText@CLEF-2023: Alpaca LoRA 7B and LENS Model Selection for Scientific Literature Simplification_
-([Paper](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-241.pdf)).
+([Paper](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-241.pdf), online).
 
 * **Dennis R. Davari**, Antonela Prnjak, Kristina Schmitt
 _CLEF2023 SimpleText Task 2, 3: Identification and Simplification of Difficult Terms_
-([Paper](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-247.pdf)).
+([Paper](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-247.pdf), online).
 
 * Behrooz Mansouri, **Shea Durgin**, Sj Franklin, Sean Fletcher, Ricardo Campos
 _AIIR and LIAAD Labs Systems for CLEF 2023 SimpleText_
-([Paper](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-253.pdf)).
+([Paper](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-253.pdf), online).
 
 * **Victor Manuel Palma Preciado**, Carolina Palma Preciado, Grigori Sidorov
 _NLPalma @ CLEF 2023 SimpleText: BLOOMZ and BERT for Complexity and Simplification Task_
-([Paper](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-256.pdf)).
+([Paper](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-256.pdf), online).
 
 
-* **16:50 - 17:40** Round table and SimpleText 2024 discussion:
+* **17:10 - 17:40** Round table and SimpleText 2024 discussion:
     * We want to hear from *you*!
     * What was great about 2023, and what could we improve for you?
     * Any ideas or volunteers are welcome!
