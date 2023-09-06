@@ -19,15 +19,15 @@ SimpleText Sessions takes place in **ROOM 4** except for the lab overviews.
 
 ### CONFERENCE Session 1 Natural Language Understanding & Text Generation (ROOM 1) 
 
-* **10:10 - 10:30** SimpleText Best of Labs in CLEF-2022: Simplify Text Generation with Prompt Engineering [BEST OF LABS], Shih-Hung Wu and Hong-Yi Huang
+* **10:10 - 10:30** Simplify Text Generation with Prompt Engineering, Shih-Hung Wu and Hong-Yi Huang (SimpleText Best of Labs in CLEF 2022).
 
 ### Lab Overviews (ROOM 1)
 * **11:20 - 12:00** Lab overviews: PAN, BioASQ, eRisk, **SimpleText**, LifeCLEF.
 
 ### SimpleText Session 1 (ROOM 4)
 
-* **16:10 - 16:20** Welcome talk 
-* **16:20 - 17:00** Invited talk by **Federica Vezzani** (University of Padua) _"Easy peasy term squeeze”: A terminological perspective on text simplification"_ : 
+* **16:10 - 16:15** Welcome talk 
+* **16:15 - 17:00** Invited talk by **Federica Vezzani** (University of Padua) _"Easy peasy term squeeze”: A terminological perspective on text simplification"_ : 
 
 > **Abstract**: Terminology is a recent discipline whose objectives are the representation, organization, and sharing of specialized knowledge as well as fostering clear and unambiguous communication among different users. In this talk, we show how the adoption of a two-dimensional terminological approach can favor term difficulty spotting in specialized texts.  We first introduce the problem of the evaluation of different degrees of term difficulty. Then, we present international initiatives for text simplification according to plain language and controlled natural languages. Finally, we showcase how a standard management of multilingual terminological data can support the development of automatic systems for text simplification.
 
