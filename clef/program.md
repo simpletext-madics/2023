@@ -67,7 +67,7 @@ _University of Amsterdam at the CLEF 2023 SimpleText Track_
 _Domain Context-centered Retrieval for the Content Selection task in the Simplification of Scientific Literature_
 ([Paper](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-249.pdf)).
 
-* *Shih-Hung Wu*, Hong-Yi Huang
+* **Shih-Hung Wu**, Hong-Yi Huang
 _A Prompt Engineering Approach to Scientific Text Simplification: CYUT at SimpleText2023 Task_
 ([Paper](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-258.pdf)).
 
