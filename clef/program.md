@@ -9,7 +9,7 @@
 
 * [CLEF registration](https://clef2023.clef-initiative.eu/index.php?page=Pages/conferenceRegistration.html)
 * [CLEF program](https://clef2023.clef-initiative.eu/index.php?page=Pages/programme.html)
-* [CLEF LNCS Proceedings](https://link.springer.com/conference/clef)
+* [CLEF LNCS Proceedings](https://link.springer.com/book/10.1007/978-3-031-42448-9)
 * [CLEF Working Notes](https://ceur-ws.org/)
 
 ------------------------------------------------------------
