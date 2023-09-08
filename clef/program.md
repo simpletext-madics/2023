@@ -73,7 +73,11 @@ _A Prompt Engineering Approach to Scientific Text Simplification: CYUT at Simple
 
 ### SimpleText Session 3 (ROOM 4)
 
-* **16:10 - 17:10** Online participant presentations (10+5 min).
+* **14:00 - 15:00** Participant presentations (10+2 min).
+
+* **Jenny Ortiz-Zambrano**, César Espin-Riofrio, Arturo Montejo-Ráez
+_SINAI Participation in SimpleText Task 2 at CLEF 2023: GPT-3 in Lexical Complexity Prediction for General Audience_
+([Paper](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-255.pdf)).
 
 * **Pascal Severin Andermatt**, **Tobias Fankhauser**
 _UZH_Pandas at SimpleText@CLEF-2023: Alpaca LoRA 7B and LENS Model Selection for Scientific Literature Simplification_
@@ -91,8 +95,7 @@ _AIIR and LIAAD Labs Systems for CLEF 2023 SimpleText_
 _NLPalma @ CLEF 2023 SimpleText: BLOOMZ and BERT for Complexity and Simplification Task_
 ([Paper](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-256.pdf), online).
 
-
-* **17:10 - 17:40** Round table and SimpleText 2024 discussion:
+* **15:00 - 15:30** Round table and SimpleText 2024 discussion:
     * We want to hear from *you*!
     * What was great about 2023, and what could we improve for you?
     * Any ideas or volunteers are welcome!
@@ -100,7 +103,7 @@ _NLPalma @ CLEF 2023 SimpleText: BLOOMZ and BERT for Complexity and Simplificati
         * Complete the current setup in 2024, new data/tasks/setup in 2025 (e.g. moving to [ArXiv](https://arxiv.org/)?)
         * Focus on relevance and text complexity, credibility, topic profiles in Task 1.
         * Focus on explaining and contextualizing complex concepts in Task 2.
-        * Focus on sentence level and paragraph level text simplification in Task 3.
+        * Focus on sentence-level and paragraph-level text simplification in Task 3.
         * Add a new filtering/routing Task 4 tracking the state-of-the-art in AI topics in 2024.
       
 ## Thursday 21th September
