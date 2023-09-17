@@ -23,6 +23,7 @@ SimpleText Sessions takes place in **ROOM 4** except for the lab overviews.
 
 ### Lab Overviews (ROOM 1)
 * **11:20 - 12:00** Lab overviews: PAN, BioASQ, eRisk, **SimpleText**, LifeCLEF.
+* Ermakova, L., SanJuan, E., Huet, S., Azarbonyad, H., Augereau, O., Kamps, J. (2023). _Overview of the CLEF 2023 SimpleText Lab: Automatic Simplification of Scientific Texts_. Proceeding of CLEF'23, LNCS, Springer ([Paper](https://doi.org/10.1007/978-3-031-42448-9_30)).
 
 ### SimpleText Session 1 (ROOM 4)
 
