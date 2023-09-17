@@ -34,7 +34,7 @@ SimpleText Sessions takes place in **ROOM 4** except for the lab overviews.
 
 * **17:10 - 17:20** **Éric Sanjuan**, Stéphane Huet, Jaap Kamps, Liana Ermakova
 _Overview of the CLEF 2023 SimpleText Task 1: Passage Selection for a Simplified Summary_ 
-([Paper](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-238.pdf), online).
+([Paper](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-238.pdf)).
 
 * **17:20 - 17:30** Liana Ermakova, **Hosein Azarbonyad**, Sarah Bertin, Olivier Augereau
 _Overview of the CLEF 2023 SimpleText Task 2: Difficult Concept Identification and Explanation_
@@ -72,7 +72,7 @@ _A Prompt Engineering Approach to Scientific Text Simplification: CYUT at Simple
 
 ### SimpleText Session 3 (ROOM 4)
 
-* **14:00 - 15:00** Online participant presentations (10+2 min).
+* **14:00 - 15:00** Participant presentations (10+2 min).
 
 * Björn Engelmann, **Fabian Haak**, Christin Katharina Kreutz, Narjes Nikzad Khasmakhi, Philipp Schaer
 _Text Simplification of Scientific Texts for Non-Expert Readers_
