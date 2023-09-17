@@ -26,22 +26,21 @@ SimpleText Sessions takes place in **ROOM 4** except for the lab overviews.
 
 ### SimpleText Session 1 (ROOM 4)
 
-* **16:10 - 16:15** Welcome talk 
-* **16:15 - 17:00** Invited talk by **Federica Vezzani** (University of Padua) _"Easy peasy term squeeze”: A terminological perspective on text simplification"_ : 
+* **16:10 - 17:10** Invited talk by **Federica Vezzani** (University of Padua) _"Easy peasy term squeeze”: A terminological perspective on text simplification"_ : 
 
 > **Abstract**: Terminology is a recent discipline whose objectives are the representation, organization, and sharing of specialized knowledge as well as fostering clear and unambiguous communication among different users. In this talk, we show how the adoption of a two-dimensional terminological approach can favor term difficulty spotting in specialized texts.  We first introduce the problem of the evaluation of different degrees of term difficulty. Then, we present international initiatives for text simplification according to plain language and controlled natural languages. Finally, we showcase how a standard management of multilingual terminological data can support the development of automatic systems for text simplification.
 
 > **Bio**: Federica Vezzani is assistant professor at the Department of Linguistic and Literary Studies of the University of Padua. Her main research interests are terminology, specialized translation, technical communication. In particular, she focuses on the management of multilingual terminology, and she developed the FAIR terminology paradigm for the organization of findable, accessible, interoperable, and reusable terminological data. Since 2022 she is an expert member of ISO TC/37 “Language and Terminology”, and participates in different national and international working groups for the development of controlled natural languages for text simplification.
 
-* **17:00 - 17:10** **Éric Sanjuan**, Stéphane Huet, Jaap Kamps, Liana Ermakova
+* **17:10 - 17:20** **Éric Sanjuan**, Stéphane Huet, Jaap Kamps, Liana Ermakova
 _Overview of the CLEF 2023 SimpleText Task 1: Passage Selection for a Simplified Summary_ 
 ([Paper](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-238.pdf), online).
 
-* **17:10 - 17:20** Liana Ermakova, **Hosein Azarbonyad**, Sarah Bertin, Olivier Augereau
+* **17:20 - 17:30** Liana Ermakova, **Hosein Azarbonyad**, Sarah Bertin, Olivier Augereau
 _Overview of the CLEF 2023 SimpleText Task 2: Difficult Concept Identification and Explanation_
 ([Paper](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-239.pdf)).
 
-* **17:20 - 17:30** Liana Ermakova, Sarah Bertin, Helen McCombie, **Jaap Kamps**
+* **17:30 - 17:40** Liana Ermakova, Sarah Bertin, Helen McCombie, **Jaap Kamps**
 _Overview of the CLEF 2023 SimpleText Task 3: Simplification of Scientific Texts_
 ([Paper](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-240.pdf)).
 
