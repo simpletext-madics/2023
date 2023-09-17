@@ -34,7 +34,7 @@ SimpleText Sessions takes place in **ROOM 4** except for the lab overviews.
 
 > **Bio**: Federica Vezzani is assistant professor at the Department of Linguistic and Literary Studies of the University of Padua. Her main research interests are terminology, specialized translation, technical communication. In particular, she focuses on the management of multilingual terminology, and she developed the FAIR terminology paradigm for the organization of findable, accessible, interoperable, and reusable terminological data. Since 2022 she is an expert member of ISO TC/37 “Language and Terminology”, and participates in different national and international working groups for the development of controlled natural languages for text simplification.
 
-* **17:10 - 17:20** **Éric Sanjuan**, Stéphane Huet, Jaap Kamps, Liana Ermakova
+* **17:10 - 17:20** Éric Sanjuan, **Stéphane Huet**, Jaap Kamps, Liana Ermakova
 _Overview of the CLEF 2023 SimpleText Task 1: Passage Selection for a Simplified Summary_ 
 ([Paper](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-238.pdf)).
 
