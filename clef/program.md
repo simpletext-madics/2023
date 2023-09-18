@@ -19,12 +19,12 @@ SimpleText Sessions takes place in **ROOM 4** except for the lab overviews.
 
 ### CONFERENCE Session 1 Natural Language Understanding & Text Generation (ROOM 1) 
 
-* **10:10 - 10:30** Simplify Text Generation with Prompt Engineering, Shih-Hung Wu and Hong-Yi Huang (SimpleText Best of Labs in CLEF 2022).
+* **10:10 - 10:30** Simplify Text Generation with Prompt Engineering, Shih-Hung Wu and Hong-Yi Huang (SimpleText Best of Labs in CLEF 2022, [Paper](https://link.springer.com/content/pdf/10.1007/978-3-031-42448-9_17.pdf)).
 
 ### Lab Overviews (ROOM 1)
 * **11:20 - 12:00** Lab overviews: PAN, BioASQ, eRisk, **SimpleText**, LifeCLEF.
   
-* **Ermakova, L.**, SanJuan, E., Huet, S., Azarbonyad, H., Augereau, O., Kamps, J. (2023). _Overview of the CLEF 2023 SimpleText Lab: Automatic Simplification of Scientific Texts_. Proceeding of CLEF'23, LNCS, Springer ([Paper](https://doi.org/10.1007/978-3-031-42448-9_30)).
+* **Ermakova, L.**, SanJuan, E., Huet, S., Azarbonyad, H., Augereau, O., Kamps, J. (2023). _Overview of the CLEF 2023 SimpleText Lab: Automatic Simplification of Scientific Texts_. Proceeding of CLEF'23, LNCS, Springer ([Paper](https://link.springer.com/content/pdf/10.1007/978-3-031-42448-9_30.pdf)).
 
 ### SimpleText Session 1 (ROOM 4)
 
