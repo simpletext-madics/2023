@@ -102,7 +102,7 @@ _NLPalma @ CLEF 2023 SimpleText: BLOOMZ and BERT for Complexity and Simplificati
     * We want to hear from *you*!
     * What was great about 2023, and what could we improve for you?
     * Any ideas or volunteers are welcome!
-    * SimpleText roadmap ([Slides Task 1-3](slides/SimpleText24_planningT123.pdf), [Slides](slides/SimpleText24_planningT4.pdf)):
+    * SimpleText roadmap ([Slides Task 1-3](slides/SimpleText24_planningT123.pdf), [Slides Task 4](slides/SimpleText24_planningT4.pdf)):
         * Complete the current setup in 2024, new data/tasks/setup in 2025 (e.g. moving to [ArXiv](https://arxiv.org/)?)
         * Focus on relevance and text complexity, credibility, topic profiles in Task 1.
         * Focus on explaining and contextualizing complex concepts in Task 2.
