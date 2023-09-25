@@ -28,7 +28,7 @@ SimpleText Sessions takes place in **ROOM 4** except for the lab overviews.
 
 ### SimpleText Session 1 (ROOM 4)
 
-* **16:10 - 17:10** Invited talk by **Federica Vezzani** (University of Padua) _"Easy peasy term squeeze”: A terminological perspective on text simplification"_ (, [Slides](slides/SimpleText23_keynote_Vezzani.pdf)): 
+* **16:10 - 17:10** Invited talk by **Federica Vezzani** (University of Padua) _"Easy peasy term squeeze”: A terminological perspective on text simplification"_ ([Slides](slides/SimpleText23_keynote_Vezzani.pdf)): 
 
 > **Abstract**: Terminology is a recent discipline whose objectives are the representation, organization, and sharing of specialized knowledge as well as fostering clear and unambiguous communication among different users. In this talk, we show how the adoption of a two-dimensional terminological approach can favor term difficulty spotting in specialized texts.  We first introduce the problem of the evaluation of different degrees of term difficulty. Then, we present international initiatives for text simplification according to plain language and controlled natural languages. Finally, we showcase how a standard management of multilingual terminological data can support the development of automatic systems for text simplification.
 
@@ -102,7 +102,7 @@ _NLPalma @ CLEF 2023 SimpleText: BLOOMZ and BERT for Complexity and Simplificati
     * We want to hear from *you*!
     * What was great about 2023, and what could we improve for you?
     * Any ideas or volunteers are welcome!
-    * SimpleText roadmap ([Slides Task 1-3](slides/SimpleText24_track_planningT123.pdf), [Slides](slides/SimpleText24_track_planningT4.pdf)):
+    * SimpleText roadmap ([Slides Task 1-3](slides/SimpleText24_planningT123.pdf), [Slides](slides/SimpleText24_planningT4.pdf)):
         * Complete the current setup in 2024, new data/tasks/setup in 2025 (e.g. moving to [ArXiv](https://arxiv.org/)?)
         * Focus on relevance and text complexity, credibility, topic profiles in Task 1.
         * Focus on explaining and contextualizing complex concepts in Task 2.
